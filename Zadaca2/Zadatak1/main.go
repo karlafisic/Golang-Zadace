@@ -6,10 +6,6 @@ type Pravokutnik struct {
 	sirina float32
 	visina float32
 }
-type Adresa struct {
-	grad  string
-	ulica string
-}
 
 func main() {
 
